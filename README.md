@@ -76,7 +76,7 @@ Memory stores the initial value which will later be manipulated. The variable is
 #### Operators:
 
 
-The class uses operator overloading for most addition, subtraction, multiplication and division operations.
+The class uses operator overloading for addition, subtraction, multiplication and division operations.
 
  
 
@@ -117,6 +117,8 @@ Example:
 |--|--|
 |**.reset()**| **Sets the calculator memory to 0** |
 |**.get_num()**|**Returns calculator memory** |
+
+
 Example:
 
     >>> obj = Calculator(4)
