@@ -9,7 +9,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+.gitignore
+.DS_Store
+MANIFEST.in
 # Distribution / packaging
 .Python
 build/
