@@ -1,28 +1,3 @@
-# Calculator package
-
-  
-
-## Summary
-
-  
-
-The package contains a calculator class which is a python representation of a calculator.
-Calculator objects are used to perform following
-operations:
-
-Addition
-
- - Subtraction
-   
- - Multiplication
-   
- - Division
-   
- - Taking n-th root of a positive number.
-   
- - Reseting the memory
-
-  
 
 # Calculator package
 
@@ -33,7 +8,7 @@ Addition
   
 
 The package contains a calculator class which is a python representation of a calculator.
-Calculator objects are used to perform following
+Calculator objects are used to perform the following
 operations:
 
 - Addition
