@@ -1,4 +1,0 @@
-include *.py
-include *.txt
-recursive-include src *.DS_Store
-recursive-include src *.py
